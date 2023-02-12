@@ -1,0 +1,6 @@
+*# inicializar un repositorio
+
+ git init
+
+
+*# conectar con un repositorio remoto 
